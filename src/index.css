@@ -133,7 +133,7 @@ body {
   }
 
   .video {
-    @apply w-full md:h-full h-1/2 absolute inset-x-0 bottom-0 md:object-contain object-bottom object-cover;
+    @apply w-full h-full absolute inset-x-0 bottom-0 md:object-contain object-bottom object-cover;
   }
 
   #cocktails {
